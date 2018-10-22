@@ -3,6 +3,6 @@
 # board = ['X', '0', 'X']
 
 def display_board(board)
-#{[0]}
+
 end 
 
